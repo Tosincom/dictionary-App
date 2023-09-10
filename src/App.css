@@ -1,0 +1,37 @@
+
+.main{
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: cornflowerblue;
+  box-sizing: border-box;
+  box-shadow: 15px;
+  margin: 120px;
+  height: 50vh;
+
+}
+body{
+  background-color: blueviolet;
+}
+
+.input{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin: 15px;
+width: 300px;
+padding: 5px;
+}
+
+.heading{
+  text-align: center;
+}
+.hello{
+  display: grid;
+place-items: center;
+}
+
+.button{
+  background-color: purple;
+}
+
